@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cyval/US-states-and-cities-json.git"
+    "url": "git+https://github.com/Cyval/node-us-cities.git"
   },
   "keywords": [
     "united",
@@ -41,9 +41,9 @@
   "author": "Immanuel Valle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Cyval/US-states-and-cities-json/issues"
+    "url": "https://github.com/Cyval/node-us-cities/issues"
   },
-  "homepage": "https://github.com/Cyval/US-states-and-cities-json#readme",
+  "homepage": "https://github.com/Cyval/node-us-cities#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",

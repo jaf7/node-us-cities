@@ -3,6 +3,7 @@ import US from '../src';
 
 describe('US States List', () => {
   it('should return an array of US states / cities', () => {
-    expect(US()).to.be.an('array');
+    const us_data = US.getAllData();
+    expect(us_data).to.be.an('array');
   });
 });

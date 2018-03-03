@@ -69,6 +69,7 @@
     "rimraf": "^2.6.2"
   },
   "dependencies": {
+    "lodash": "^4.17.5",
     "title-case": "^2.1.1"
   }
 }
